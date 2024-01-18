@@ -1,0 +1,37 @@
+    4  cd git-practice-cwc
+    5  git log --oneline
+    6  git status
+    7  git add .
+    8  git status
+   10  git add .
+   11  git commit
+   12  git switch main
+   13  git add .
+   14  git commit -m 'new line to file1'
+   15  git log -oneline
+   16  git log --oneline
+   17  git switch features
+   18  git add .
+   19  git commit -m 'new feature'
+   20  git log --oneline
+   21  git switch main
+   22  git merge features
+   23  git commit -m 'Merge branches'
+   24  git log --oneline
+   25  git add .
+   26  git commit -m 'no new features'
+   27  git switch features
+   28  git add .
+   29  git commit -m 'edit new features'
+   30  git switch main
+   31  git merge features
+   33  git add .
+   34  git commit -m 'Merge with features'
+   35  git log --oneline
+   36  git branch -d features
+   37  git pull
+   38  git add .
+   39  git status
+   40  git push
+   41  git log --oneline > gitlog.txt
+   42  history | grep git > history.txt

@@ -1,0 +1,17 @@
+ae8d628 Merge with features
+beadf5c edit new features
+2ff4df4 no new features
+194b53e Merge branch 'features'
+dc19adf new feature
+da0e55a new line to file1
+e2255d2 add newfeatures.txt
+e4c6f68 Create Readme.md
+b8efefe Merge pull request #1 from Talmage-Hilton/main
+f222da9 Merge branch 'main' into main
+2d2a120 Added a line to file1
+a187e20 Suggestion to file1.txt
+f1bc330 modify file1
+4aed1f6 Create file2.txt
+ad2707b Update .gitignore
+799e011 Create .gitignore
+862a095 First Commit
