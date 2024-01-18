@@ -35,3 +35,13 @@
    40  git push
    41  git log --oneline > gitlog.txt
    42  history | grep git > history.txt
+   43  git add .
+   44  git commit -m 
+   45  git commit -m 'update names and add log'
+   46  git push
+   47  git status
+   48  git status
+   49  git status
+   50  git status
+   51  git log --oneline > gitlog.txt
+   52  history | grep git > history.txt
