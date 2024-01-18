@@ -45,3 +45,6 @@
    50  git status
    51  git log --oneline > gitlog.txt
    52  history | grep git > history.txt
+   53  git init
+   54  git branch feature
+   55  git branch -d feature
